@@ -1,0 +1,146 @@
+body{
+    background-color: rgb(255, 228, 154);
+}
+.main{
+    background-color: azure;
+    padding: 50px;
+    height: 550px;
+    width: 1100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 35px;
+    border-radius: 45px;
+    box-shadow: 0 4px 8px;
+}
+.image{
+    width: 36px;
+    position: relative;
+    top: -30px;
+    left: 38px;
+}
+.text{
+    position: relative;
+    left: 7%;
+    top: -75px;
+    font: bold;
+}
+.btn{
+    background-color: rgb(255,69,129);
+    background: linear-gradient(329deg, rgba(259,69,129,1) 33%, rgba(255,181,43,1) 89%);
+    border-radius: 10px;
+    color: white;
+    border: none;
+    font-size: 9px;
+    position: relative;
+    left: 130px;
+    top: -110px;
+    padding: 5px;
+}
+ol li{
+    display: inline;
+    margin-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    bottom: 150px;
+    left: 30%;
+    font-size: 14px;
+}
+ol li:hover{
+    color: grey;
+}
+.join{
+    background-color: rgb(0,132,255);
+    border: none;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+    border-radius: 4px;
+    position: relative;
+    left: 940px;
+    bottom: 230px;
+}
+.join:hover{
+background-color: skyblue;
+}
+.signn{
+    position: relative;
+    left: 80%;
+    bottom: 34%;
+}
+.head{
+    font-size: 50px;
+    position: relative;
+    bottom: 20%;
+    left: 5%;
+    text-shadow: 0 0 4px black;
+}
+.head:hover{
+    color: white;
+}
+.img{
+    position: relative;
+    left: 60%;
+    bottom: 60%;
+}
+.pera{
+    position: relative;
+    bottom: 110%;
+    left: 5%;
+    text-shadow: 0 0 4px white;
+}
+.pera:hover{
+color: grey;
+}
+.box{
+  position: relative;
+  bottom: 110%;
+  left: 5%;
+  width: 260px;
+  height: 40px;
+  border: none;
+  border-radius: 4px;  
+color: aliceblue;
+}
+.wait{
+    background-color: rgb(0,132,255);
+    border: none;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+    border-radius: 4px;
+    position: relative;
+    left: 5%;
+    bottom: 110%;
+} 
+.wait:hover{
+background-color: skyblue;
+}
+.peraa{
+    position: relative;
+    left: 5%;
+    bottom: 110%;
+    color: grey;
+}
+.app{
+    position: relative;
+    bottom: 92%;
+    left: 5%;
+    color: grey;
+}
+.have{
+    position: relative;
+    bottom: 100%;
+    left: 80%;
+    color: grey;
+}
+.talk{
+    position: relative;
+    bottom: 102%;
+    left: 80%;
+}
